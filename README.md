@@ -21,25 +21,37 @@ Os dados estão relacionados a campanhas de marketing instituição bancária po
 1. **Definição do Problema**
    
     1.1) Hipóteses do Problema
-    1.2) Tipo de Problema  
-    1.3) Seleção de Dados  
+   
+    1.2) Tipo de Problema
+   
+    1.3) Seleção de Dados
+     
     1.4) Atributos do Dataset  
 
-2. **Análise e Tratamento de Dados**
+3. **Análise e Tratamento de Dados**
    
     2.1) Total e Tipo das Instâncias
+   
     2.2) Estatísticas Descritivas
-    2.3) Outliers 
+   
+    2.3) Outliers
+   
     2.4) Histograma
+   
     2.5) Hipóteses
+   
     2.6) Matriz de Correlação 
 
-3. **Pré-Processamento de Dados**
+4. **Pré-Processamento de Dados**
    
     3.1) Divisão entre teste e treino
+   
     3.2) Encoding
+   
     3.3) Normalização
+   
     3.4) Padronização
+   
     3.5) Redução de Dimensionalidade e Feature Selection  
 
-4. **Conclusão**
+6. **Conclusão**
